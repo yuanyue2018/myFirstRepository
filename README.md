@@ -1,2 +1,3 @@
 # myFirstRepository
 我的第一个存储库
+我是YuanYue,这是我第一次在github上创建一个项目，这个项目没有其他用途，仅仅是用来学习怎样使用github
